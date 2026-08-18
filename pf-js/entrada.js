@@ -17,7 +17,7 @@ const edad = prompt("Ingresa tu edad", 15);
 const nombre = prompt("Ingresa tu nombre");
 console.log(edad);
 console.log("Hola soy " + nombre + ", tengo " + edad + " años.");
-alert("Hola soy " + nombre + ", tengo " + edad + " años.")
+alert("Hola soy " + nombre + ", tengo " + edad + " años.");
 
 // const SPfav = prompt("Ingresa tu serie o pelicula favorita")
 // const personaje = prompt("Ingresa tu personaje favorito de la pelicula o serie que ingresaste anteriormente")
